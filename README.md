@@ -2,5 +2,10 @@
 
 Python solutions to LeetCode problems, automatically synced using LeetHub.
 
-- 📌 Language: Python
-- 🔄 Auto-updated after every submission
+## 📊 Stats
+
+- 📝 Problems Solved: **7**
+- 💻 Language: Python
+
+---
+⭐ Consistently solving LeetCode for interview preparation.
