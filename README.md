@@ -1,13 +1,9 @@
 # LeetCode Solutions
 
-> A curated collection of my Python solutions to LeetCode problems.
+A personal collection of my LeetCode solutions as I continue developing stronger problem-solving skills and a deeper understanding of Data Structures & Algorithms.
 
-### 📊 Overview
+This repository reflects my progress from foundational concepts to more advanced patterns through consistent practice and clean implementations.
 
-- 📝 Problems Solved: 12
-- 💻 Language: Python
-- 🔄 Auto-synced with LeetHub
+**Problems Solved:** **12**
 
----
-
-Learning, improving, and documenting my journey through Data Structures & Algorithms.
+Feel free to explore the solutions, compare approaches, or follow along as the repository continues to grow.
