@@ -1,11 +1,13 @@
 # LeetCode Solutions
 
-Python solutions to LeetCode problems, automatically synced using LeetHub.
+> A curated collection of my Python solutions to LeetCode problems.
 
-## 📊 Stats
+### 📊 Overview
 
 - 📝 Problems Solved: **9**
 - 💻 Language: Python
+- 🔄 Auto-synced with LeetHub
 
 ---
-⭐ Consistently solving LeetCode for interview preparation.
+
+Learning, improving, and documenting my journey through Data Structures & Algorithms.
