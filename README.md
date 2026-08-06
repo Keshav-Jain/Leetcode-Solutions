@@ -11,24 +11,3 @@
 ---
 
 Learning, improving, and documenting my journey through Data Structures & Algorithms.
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
-| [0704-binary-search](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0704-binary-search) |
-## Hash Table
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
-## Sorting
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
-## Binary Search
-|  |
-| ------- |
-| [0704-binary-search](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0704-binary-search) |
-<!---LeetCode Topics End-->
