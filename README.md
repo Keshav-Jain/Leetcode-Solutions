@@ -4,7 +4,7 @@
 
 ### 📊 Overview
 
-- 📝 Problems Solved: **10**
+- 📝 Problems Solved: {{SOLVED}}
 - 💻 Language: Python
 - 🔄 Auto-synced with LeetHub
 
