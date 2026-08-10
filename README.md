@@ -4,21 +4,6 @@ A personal collection of my LeetCode solutions as I continue developing stronger
 
 This repository reflects my progress from foundational concepts to more advanced patterns through consistent practice and clean implementations.
 
-**Problems Solved:** **15**
+**Problems Solved:** **16**
 
 Feel free to explore the solutions, compare approaches, or follow along as the repository continues to grow.
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
-## Memoization
-|  |
-| ------- |
-| [0070-climbing-stairs](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
-<!---LeetCode Topics End-->
