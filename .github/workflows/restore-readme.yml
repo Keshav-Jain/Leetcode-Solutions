@@ -4,9 +4,15 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'README.md'
 
 permissions:
   contents: write
+
+concurrency:
+  group: restore-readme-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   restore:
@@ -14,6 +20,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -31,7 +39,15 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No changes"
-          else
-            git commit -m "Update README"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update README [skip ci]"
+
+          for i in 1 2 3 4 5; do
+            git push origin HEAD:main && break
+            echo "Push rejected, retrying ($i)..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((RANDOM % 5 + 1))
+          done
