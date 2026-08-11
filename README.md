@@ -7,3 +7,22 @@ This repository reflects my progress from foundational concepts to more advanced
 **Problems Solved:** **19**
 
 Feel free to explore the solutions, compare approaches, or follow along as the repository continues to grow.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+<!---LeetCode Topics End-->
