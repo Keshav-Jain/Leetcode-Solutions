@@ -7,3 +7,10 @@ This repository reflects my progress from foundational concepts to more advanced
 **Problems Solved:** **21**
 
 Feel free to explore the solutions, compare approaches, or follow along as the repository continues to grow.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
