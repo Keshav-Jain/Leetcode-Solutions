@@ -7,3 +7,18 @@ This repository reflects my progress from foundational concepts to more advanced
 **Problems Solved:** **22**
 
 Feel free to explore the solutions, compare approaches, or follow along as the repository continues to grow.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Keshav-Jain/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
